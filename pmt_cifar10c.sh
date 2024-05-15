@@ -1,0 +1,1 @@
+python pmt_cifar10c.py DomainBed/domainbed/data/ --task domain_shift --targets 0 -b 1 --lr 1e-5 --epochs 1 --lam 0.3 --beta 0.5

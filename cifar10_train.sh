@@ -1,0 +1,1 @@
+python cifar10_train.py DomainBed/domainbed/data/ --task cifar --targets 0 -b 4 --lr 1e-7 --epochs 10 --lam 0.3 --beta 0.5
